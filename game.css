@@ -1,0 +1,51 @@
+.background
+{
+	background-image: url("https://i.pinimg.com/736x/21/39/3c/21393c41e9afb4beb99e32a5be5f3655.jpg");
+	background-size: cover;
+	background-position:center ;
+}
+
+	.div1 , .div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#Player1, #Player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	font-family: 'M PLUS 1', sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	color: yellow;
+}
+button{
+	margin-top: 100px;
+	width : 30%;
+	font-size: 50px;
+	
+}
+
